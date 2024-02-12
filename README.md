@@ -1,4 +1,7 @@
-### Hi there 👋
+# 🎹 Michael Short
+**`Aspiring developer/musician`**
+
+I began coding around August, 2023. I love the challenges and critical thinking involved in coding. Nearly everyday I find myself learning something new. Working on projects has been a fun learning process.
 
 <!--
 **mshortcodes/mshortcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
