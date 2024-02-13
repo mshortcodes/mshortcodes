@@ -1,7 +1,7 @@
 # ☕ Michael Short
 **`Aspiring developer/musician`**
 
-I began coding around August, 2023. I love the challenges and critical thinking involved in coding. Nearly everyday I find myself learning something new. I have completed many certificates but working on my own projects has been a much more enjoyable learning process. I consider myself to be a lifelong learner and am highly self-disciplined. In addition to coding, I also play the piano. Most of the time I'm sitting, so I try to balance that by exercising everyday and eating healthy. I love coffee and relaxing with a Netflix show or anime.
+I began coding around August, 2023. I love the challenges and critical thinking involved in coding. Nearly everyday I find myself learning something new. I have completed many certificates but working on my own projects has been a much more enjoyable learning process. I consider myself to be a lifelong learner and am highly self-disciplined. My current goal is to transition to a full-time role as a front-end developer. In the future I'd like to explore the back-end. In addition to coding, I also play the piano. Most of the time I'm sitting, so I try to balance that by exercising everyday and eating healthy. I love coffee and relaxing with a Netflix show or anime.
 
 ### 🚀 Skills
 `Primary`
