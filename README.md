@@ -3,6 +3,8 @@
 
 I began coding around August, 2023. I love the challenges and critical thinking involved in coding. Nearly everyday I find myself learning something new. I have completed many certificates but working on my own projects has been a much more enjoyable learning process. I consider myself to be a lifelong learner and am highly self-disciplined. My current goal is to transition to a full-time role as a front-end developer. In the future I'd like to explore the back-end. In addition to coding, I also play the piano. Most of the time I'm sitting, so I try to balance that by exercising everyday and eating healthy. I love coffee and relaxing with a Netflix show or anime.
 
+#
+
 ### 🚀 Skills
 `Primary`
 <div style='display: flex'>
@@ -25,12 +27,16 @@ I began coding around August, 2023. I love the challenges and critical thinking 
 ### 📊 Stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshortcodes&show_icons=true&theme=gruvbox)
 
+#
+
 ### ⚒️ Projects
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=portfolio-website)](https://github.com/mshortcodes/portfolio-website)
 [![Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=mini-projects)](https://github.com/mshortcodes/mini-projects)
 [![Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=mini-projects)](https://github.com/mshortcodes/mini-projects)
 [![Meta Front-End Developer Capstone](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=meta-capstone)](https://github.com/mshortcodes/meta-capstone)
+
+#
 
 <details>
   <summary><h3>📖 My Coding Journey</summary>
