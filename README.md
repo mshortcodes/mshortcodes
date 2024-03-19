@@ -23,13 +23,6 @@ I began coding around August, 2023. I love the challenges and critical thinking 
 <img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
-#
-
-### 📊 Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshortcodes&show_icons=true&theme=slateorange)
-
-#
-
 ### ⚒️ Projects
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=portfolio-website)](https://github.com/mshortcodes/portfolio-website)
