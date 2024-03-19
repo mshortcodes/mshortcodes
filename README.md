@@ -26,7 +26,7 @@ I began coding around August, 2023. I love the challenges and critical thinking 
 #
 
 ### 📊 Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshortcodes&show_icons=true&theme=gruvbox)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshortcodes&show_icons=true&theme=slateorange)
 
 #
 
