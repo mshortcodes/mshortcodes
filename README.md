@@ -26,8 +26,11 @@ I began coding around August, 2023. I love the challenges and critical thinking 
 ### ⚒️ Projects
 
 [![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=portfolio-website)](https://github.com/mshortcodes/portfolio-website)
+
 [![MyGPT](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=mygpt)](https://github.com/mshortcodes/mygpt)
+
 [![Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=mini-projects)](https://github.com/mshortcodes/mini-projects)
+
 [![Meta Front-End Developer Capstone](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=meta-capstone)](https://github.com/mshortcodes/meta-capstone)
 
 #
