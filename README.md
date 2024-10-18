@@ -1,7 +1,7 @@
 # ☕ Michael Short
-**`Aspiring developer/musician`**
+**`Aspiring developer, failed vimmer`**
 
-I began coding around August, 2023. I love the challenges and critical thinking involved in coding. Nearly everyday I find myself learning something new. I have completed many certificates but working on my own projects has been a much more enjoyable learning process. I consider myself to be a lifelong learner and am highly self-disciplined. My current goal is to transition to a full-time role as a front-end developer. In the future I'd like to explore the back-end. In addition to coding, I also play the piano. Most of the time I'm sitting, so I try to balance that by exercising everyday and eating healthy. I love coffee and relaxing with a Netflix show.
+I began coding around August, 2023. I love the challenges and critical thinking involved in coding. Nearly everyday I find myself learning something new. I have completed many certificates and courses in the past, but Boot.dev has by far been the best resource I've used. I have spent around 8 months working through the Boot.dev path, reviewing, re-reading, and sometimes even completing courses over again to thoroughly review all the material. There's a lot! I find myself going back and using it as a resource as well. I consider myself to be a lifelong learner and am highly self-disciplined. My current goal is to transition to a full-time role as a back-end developer. In addition to coding, I also play the piano and enjoy going on walks. My favorite way to relax and wind down is with a Netflix show.
 
 #
 
@@ -36,7 +36,7 @@ I began coding around August, 2023. I love the challenges and critical thinking 
 #
 
 <details>
-  <summary><h3>📖 My Coding Journey</summary>
+  <summary><h3>📖 My Coding Journey / Boot.dev rant</summary>
     <p>
       Most of my learning has come from the Meta Front-End Developer Certificate on Coursera. This took me several months to complete and was difficult. It consisted of a lot of readings, videos, quizzes, and projects. I was exposed to many new concepts over the span of 9 courses. I often didn't understand things the first time around, so I would supplement my learning with Codecademy. I learned HTML, CSS, JavaScript, React, and Git in the certificate. Even though sometimes I would feel confused and frustrated, I found myself enjoying coding and challenging my brain. I love working in JavaScript, dealing with logic, and solving puzzles (I do Codewars when I have time!) However, this wasn't my first exposure to coding.
       Before that, I had tried the Google Data Analytics Certificate also on Coursera. I actually finished it, but felt like it wasn't the right fit for me. There was a lot of time spent in Excel, Tableau, R, and SQL. I didn't like working with these tools, especially Excel and data visualization software. But I noticed that any time I had to code, I thought it was super interesting! So, after this certificate I decided not to pursue data analytics and instead go for something that would be more focused on coding. This led me to studying front-end development.
