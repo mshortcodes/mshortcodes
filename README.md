@@ -1,45 +1,33 @@
-# ☕ Michael Short
-**`Aspiring developer, failed vimmer`**
+# Michael Short
+**`Aspiring developer`**
 
-I began coding around August, 2023. I love the challenges and critical thinking involved in coding. Nearly everyday I find myself learning something new. I have completed many certificates and courses in the past, but Boot.dev has by far been the best resource I've used. I have spent around 8 months working through the Boot.dev path, reviewing, re-reading, and sometimes even completing courses over again to thoroughly review all the material. There's a lot! I find myself going back and using it as a resource as well. I consider myself to be a lifelong learner and am highly self-disciplined. My current goal is to transition to a full-time role as a back-end developer. In addition to coding, I also play the piano and enjoy going on walks. My favorite way to relax and wind down is with a Netflix show.
+I began Boot.dev in March, 2024 which is when I realized I wanted to pursue backend development. While I had just been exposed to coding several months earlier, I didn't know which type of work I wanted to focus in on. On Boot.dev I enjoyed all the topics and (almost) every single course. This was how I knew backend was for me. Go has been my favorite language to work in. The robust standard library, static typing, garbage collector, syntax, toolchain, compilation, etc. Everything is fantastic. Not to mention the mascot. I'm hoping to transition careers and get a full-time role as a junior backend developer.
 
 #
 
 ### 🚀 Skills
-`Primary`
 <div style='display: flex'>
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-</div>
-
-`Secondary`
-<div style='display: flex'>
+<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
 ### ⚒️ Projects
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=portfolio-website)](https://github.com/mshortcodes/portfolio-website)
+[![Color My Practice](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=color_my_practice)](https://github.com/mshortcodes/color_my_practice)
 
-[![MyGPT](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=mygpt)](https://github.com/mshortcodes/mygpt)
-
-[![Mini Projects](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=mini-projects)](https://github.com/mshortcodes/mini-projects)
-
-[![Meta Front-End Developer Capstone](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=meta-capstone)](https://github.com/mshortcodes/meta-capstone)
+[![Sentry](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=sentry)](https://github.com/mshortcodes/sentry)
 
 #
 
 <details>
-  <summary><h3>📖 My Coding Journey / Boot.dev rant</summary>
+  <summary><h3>📖 My Boot.dev Journey</h3></summary>
     <p>
-      Most of my learning has come from the Meta Front-End Developer Certificate on Coursera. This took me several months to complete and was difficult. It consisted of a lot of readings, videos, quizzes, and projects. I was exposed to many new concepts over the span of 9 courses. I often didn't understand things the first time around, so I would supplement my learning with Codecademy. I learned HTML, CSS, JavaScript, React, and Git in the certificate. Even though sometimes I would feel confused and frustrated, I found myself enjoying coding and challenging my brain. I love working in JavaScript, dealing with logic, and solving puzzles (I do Codewars when I have time!) However, this wasn't my first exposure to coding.
-      Before that, I had tried the Google Data Analytics Certificate also on Coursera. I actually finished it, but felt like it wasn't the right fit for me. There was a lot of time spent in Excel, Tableau, R, and SQL. I didn't like working with these tools, especially Excel and data visualization software. But I noticed that any time I had to code, I thought it was super interesting! So, after this certificate I decided not to pursue data analytics and instead go for something that would be more focused on coding. This led me to studying front-end development.
-      Even though the Meta certificate was hard, I am so glad I made the switch. I find working with front-end tools much more enjoyable and I don't mind coding for hours with no break. In the future I absolutely want to dive into back-end and see what that is like. But, for now, one step at a time.
+      The majority of my learning has come from Boot.dev. It's by far my favorite resource after having tried some others in the past, namely Coursera and Codecademy. These felt more superficial and didn't teach me the foundational computer science concepts that Boot.dev dedicates half of its learning path to. I love how I was forced to actually write code the entire time. The game element was irrelevant to me, but sort of just icing on the cake. I only cared about a quality resource that was well-structured and taught me what I needed to know without extra fluff. I knew I could trust it as a resource since ThePrimeagen recommended it and I was watching him occasionally. 
+    </p>
+    <p>
+      The path is split into two halves, computer science and backend-specific concepts. It started off easy with some Python which I had briefly covered before, but then quickly became significantly harder. I want to say it took me around 8 months to complete it, however I had to go back and review concepts many times. I even re-read and completed certain projects and courses multiple times. For me, I need repeated exposure before I can grasp certain concepts, especially ones that are particularly abstract. All in all, after completing the entire pathway, reviewing, and building projects, it's nearing one year. I am so thankful for Boot.dev, as it got tiresome dabbling in the endless resources available online (Coursera, Codecademy, Edx, Udemy to name a few). Having an all-in-one, vetted, progressive resource kept me on track and motivated the entire time.
     </p>
 </details>
