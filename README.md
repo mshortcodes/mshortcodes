@@ -14,14 +14,6 @@ I began Boot.dev in March, 2024 which is when I realized I wanted to pursue back
 <img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
-### ⚒️ Projects
-
-[![Color My Practice](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=color_my_practice)](https://github.com/mshortcodes/color_my_practice)
-
-[![Sentry](https://github-readme-stats.vercel.app/api/pin/?username=mshortcodes&theme=dark&repo=sentry)](https://github.com/mshortcodes/sentry)
-
-#
-
 <details>
   <summary><h3>📖 My Boot.dev Journey</h3></summary>
     <p>
