@@ -1,7 +1,7 @@
 # Michael Short
 **`Backend Developer`**
 
-I began [Boot.dev](https://www.boot.dev/tracks/backend) in March, 2024 which is when I realized I wanted to pursue backend development. While I had just been exposed to coding several months earlier, I didn't know which type of work I wanted to focus in on. On Boot.dev I enjoyed all the topics and (almost) every single course. This was how I knew backend was for me. Go has been my favorite language to work in. The robust standard library, static typing, garbage collector, syntax, toolchain, package manager, etc. Everything is fantastic. Not to mention the mascot. I'm hoping to transition careers and get a full-time role as a junior backend developer.
+I began [Boot.dev](https://www.boot.dev/tracks/backend) in March, 2024 which is when I realized I wanted to pursue backend development. While I had just been exposed to coding several months earlier, I didn't know which type of work I wanted to focus in on. On Boot.dev I enjoyed all the topics and (almost) every single course. This was how I knew backend was for me. Go has been my favorite language to work in. The robust standard library, static typing, garbage collector, syntax, toolchain, package manager, etc. Everything is fantastic. Not to mention the mascot. I'm looking to transition careers and get a full-time role as a junior backend developer.
 
 #
 
