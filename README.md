@@ -8,12 +8,10 @@ I discovered [Boot.dev](https://www.boot.dev/tracks/backend) in March, 2024 and 
 ### 🚀 Skills
 <div style='display: flex'>
 <img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img width='75px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  
 </div>
 
 <details>
@@ -25,6 +23,9 @@ I discovered [Boot.dev](https://www.boot.dev/tracks/backend) in March, 2024 and 
       The majority of my learning has come from Boot.dev. I love how I was forced to actually write code the entire time and the gamification was icing on the cake. The path is split into two halves, computer science and backend-specific concepts. It started off easy with some Python but quickly became significantly harder. I realized that the resources I was using previously were very superficial.
     </p>
     <p>
-      It took me around 8 months to complete it, however, I had to go back and review concepts many times. I even re-read and completed certain projects and courses multiple times. For me, I need repeated exposure before I can grasp certain concepts, especially ones that are particularly abstract. All in all, after completing the entire pathway, reviewing, and building projects, it's nearing one year. I am so thankful for Boot.dev, as it got tiresome trying out the endless resources available online (Coursera, Codecademy, Edx, Udemy to name a few). Having an all-in-one, structured, progressive resource kept me on track and motivated the entire time. I think there will always be more to learn and review, but the next big step for me is actually making that career pivot.
+      It took me around 8 months to complete it, however, I had to go back and review concepts many times. I even re-read and completed certain projects and courses multiple times. For me, I need repeated exposure before I can grasp certain concepts, especially ones that are particularly abstract. I am so thankful for Boot.dev, as it got tiresome trying out the endless resources available online (Coursera, Codecademy, Edx, Udemy to name a few). Having an all-in-one, structured, progressive resource kept me on track and motivated the entire time.
+    </p>
+    <p>
+      Since then, I have begun my master's and enjoy reading through Go books on the side to further my knowledge of the language. Looking forward to always learning more and am open to internships and entry level roles.
     </p>
 </details>
